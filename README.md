@@ -63,7 +63,6 @@ Click any title to jump directly into the related folder.
 | 🔥 PyTorch / TensorFlow | Deep learning frameworks |
 | 🧠 HuggingFace | LLMs, transformers, tokenizers |
 | 🌐 FastAPI / Flask / Streamlit | Model deployment |
-| 📊 Matplotlib / Seaborn | Visualization |
 
 ---
 
